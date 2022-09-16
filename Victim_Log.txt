@@ -1,0 +1,6 @@
+----------------------------------------------------------------------[localhost/instagram/index.php]---[06:40:20 PM - 2022/09/10]---[::1]
+username: alpha
+password: 123458
+----------------------------------------------------------------------[localhost/instagram/index.php]---[08:43:21 AM - 2022/09/11]---[::1]
+username: qdqwdwad
+password: dgfvsdgvsdfsedf
